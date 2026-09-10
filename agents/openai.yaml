@@ -1,0 +1,5 @@
+interface:
+  display_name: "Finance Article CN"
+  short_description: "Find hot topics, then write a Chinese finance article with images"
+  default_prompt: "Use $finance-article-cn to research current finance trends and give me 3–5 Chinese topics to choose from before writing the article and creating its images."
+
